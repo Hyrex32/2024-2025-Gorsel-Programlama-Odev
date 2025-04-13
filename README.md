@@ -1,1 +1,1 @@
-# Odev_vki
+Veri Tabanı olarak SQLite kullanıldı.
