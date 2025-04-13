@@ -10,16 +10,16 @@ Kullanıcıdan **ad**, **soyad**, **doğum tarihi**, **boy** ve **kilo** gibi de
   
   - Tablo adı = `Users`
 ### 💾 Veri tabanı alanları:
-- Ad (TEXT)
-- Soyad (TEXT)
-- Gun (INTEGER)
-- Ay (INTEGER)
-- Yil (INTEGER)
-- VKI (REAL)
-- VKIYorum (TEXT)
-- Burc (TEXT)
-- BurcYorum (TEXT)
-- BurcResim (TEXT) **Örn:** `koc.png`
+- Ad `(TEXT)`
+- Soyad `(TEXT)`
+- Gun `(INTEGER)`
+- Ay `(INTEGER)`
+- Yil `(INTEGER)`
+- VKI `(REAL)`
+- VKIYorum `(TEXT)`
+- Burc `(TEXT)`
+- BurcYorum `(TEXT)`
+- BurcResim `(TEXT)` **Örn:** `koc.png`
 
 #### 🗒️ Ek Notlar:
 - Ekrana gösterebilmek için form içerisinde `DataGridView` kullanıldı.
